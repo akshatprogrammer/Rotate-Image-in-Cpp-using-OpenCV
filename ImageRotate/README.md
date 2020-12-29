@@ -17,7 +17,7 @@
 [Sample Program](https://pastebin.pl/view/9011e60d)
 
 5. getRotationMatrix2D() -> Use the OpenCV function cv::getRotationMatrix2D to obtain a 2×3 rotation matrix
-6. warpAffine() -> Use the OpenCV function cv::warpAffine to implement simple remapping routines.</br>
+6. warpAffine() -> Use the OpenCV function cv::warpAffine to implement simple remapping routines. warpAffine takes 4 parametres. First is source image file , second is destination image file ,  third parameter is mat object that is ouput after rotating with some point taking into reference and last is taking the size.</br>
 [Learn More](https://docs.opencv.org/3.4/d4/d61/tutorial_warp_affine.html)
 
 ## Algorithm
