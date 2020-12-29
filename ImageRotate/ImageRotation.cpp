@@ -9,7 +9,7 @@ Mat rotate(Mat original, double angle)   // function to rotate image and return 
 {
     Mat new_image;      //Mat object for output image file.
     Point2f pt(original.cols / 2., original.rows / 2.);          //point from where to rotate    
-    Mat r = getRotationMatrix2D(pt, angle, 1.0);      //Mat object for storing after rotation
+    Mat r = getRotationMatrix2D(pt, angle,-0.5);      //Mat object for storing after rotation
     warpAffine(original, new_image, r, Size(original.cols, original.rows));  ///applie an affine transforation to image.
     return new_image;         //returning Mat object for output image file
 }
