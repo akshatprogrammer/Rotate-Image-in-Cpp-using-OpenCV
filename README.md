@@ -14,7 +14,7 @@ To extract useful infos from images, videos, texts.
 ## How to Install OpenCV
 [click here](https://sourceforge.net/projects/opencvlibrary/)
 ## How to add OpenCV to compiler
-[![Watch the video](https://github.com/akshatprogrammer/Rotate-Image-in-Cpp-using-OpenCV/blob/main/Videos/Screenshot%2012_20_2020%205_06_00%20PM.png)](https://github.com/akshatprogrammer/Rotate-Image-in-Cpp-using-OpenCV/blob/main/Videos/www_screencapture_com_2020-12-20_17_01.webm)
+[![Watch the video](https://github.com/akshatprogrammer/Rotate-Image-in-Cpp-using-OpenCV/blob/main/Videos/Screenshot%2012_20_2020%205_06_00%20PM.png)](https://drive.google.com/file/d/1F4NrxZGJDeu3WIMTyMufzkfoNsWRnBcN/view?usp=sharing)
 </br> **Click on the thumbail to see the process**
 
 ## Cpp program to load and display image.
