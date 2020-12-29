@@ -34,5 +34,5 @@
 Follow these steps to run the program without any errors.
 1. After adding openCV to compiler environment.
 2. Open Visual Studio 2019.
-3. Write down the program with the help of Algorithm provided and [Original Documentation](https://opencv.org/)
+3. Write down the program with the help of [Algorithm](https://github.com/akshatprogrammer/Rotate-Image-in-Cpp-using-OpenCV/blob/main/ImageRotate/README.md#algorithm) provided and [Original Documentation](https://opencv.org/)
 4. Debug the Project settings.
