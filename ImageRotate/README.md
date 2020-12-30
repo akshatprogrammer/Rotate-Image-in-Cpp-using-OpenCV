@@ -13,7 +13,7 @@
 3. 8 GB RAM
 4. 430 GB unused space.
 ## How to add openCV to compiler?
-[Click this link to see tutorial](https://github.com/akshatprogrammer/Rotate-Image-in-Cpp-using-OpenCV/blob/main/Videos/www_screencapture_com_2020-12-20_17_01.webm)
+[Click this link to see tutorial](https://drive.google.com/file/d/1DQsIMJSTplvzKMsrjqdw8iFZytHIbi2e/view?usp=sharing)
 ## Functions to keep in mind :)
 1. imread() -> Read an image from file (using cv::imread)
 2. imshow() -> Display an image in an OpenCV window (using cv::imshow)
